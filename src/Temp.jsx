@@ -2,7 +2,7 @@ const Temp = () => {
     const returnTest = "test return :)";
     return <>
         <div className="container">
-            <h3>returnTest</h3>
+            <h3 className="container h3">returnTest</h3>
         </div>
     </>
 }

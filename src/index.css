@@ -142,15 +142,17 @@ Variables
   }
   
   .container {
+    text-align: center;
     width: 90vw;
     margin: 5rem 0;
     max-width: var(--fixed-width);
-    background: var(--clr-);
+    background: var(--clr-grey-1);
     border-radius: var(--radius);
-    padding: 1.5rem 2rem;
+    padding: 2rem 1.5rem;
     box-shadow: var(--dark-shadow);
   }
   .container h3 {
+    background: var(--clr-white);
     font-weight: normal;
     text-transform: none;
     margin-bottom: 2rem;
