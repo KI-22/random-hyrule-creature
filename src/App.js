@@ -39,7 +39,7 @@ function App() {
     
     return <>
         {/* <Temp /> */}
-        <Creatures />
+        <Creatures creatures={creatures}/>
     </>
 }
 

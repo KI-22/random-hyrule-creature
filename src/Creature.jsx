@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Creature = () => {
-  return <h4>creature component</h4>;
+  return <h2>one creature</h2>;
 };
 
 export default Creature;
