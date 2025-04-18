@@ -2,4 +2,4 @@
 
 plan: random hyrule creature generator
 
-** TBC ** quick attempt at adapting a tutorials project
+** in progress ** mini JS/React project to help practice skills learnt
